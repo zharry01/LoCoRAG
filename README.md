@@ -1,6 +1,6 @@
 # LoCoRAG
 
-This repository contains the retriever, RAG pipeline, batch prediction scripts, and evaluation scripts for LoCoRAG.
+This repository (LoCoRAG) is the implementation of Self-Correcting Agentic RAG via Memory-Grounded Failure Localization.
 
 ## 1. Environment Setup
 
