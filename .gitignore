@@ -1,0 +1,84 @@
+# Results and outputs
+Result/
+Result_new/
+Result_debug/
+results/
+outputs/
+debug/
+analysis/
+
+# Data directories (large datasets)
+dataset/
+datasets/
+data/evidence_memory/
+data/log.txt
+retriever/indexes/
+*.index
+*.faiss
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.safetensors
+
+# Logs
+*.log
+log/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables (contains sensitive info)
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
